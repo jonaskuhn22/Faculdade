@@ -1,0 +1,25 @@
+titulo
+nomes
+resumo  objetivo
+	metodologia
+	principais conciderações
+	5 10 linhas
+palavras chaves
+introdução
+
+
+
+metodologia
+
+pesquisa teórica
+	estudo teórico 
+	com dados secundarios
+
+pesquisa bibliografica estudo de caso
+
+pesquisa bibliográfica
+pesquisa exploratória
+pesquisa qualitativa - etapas das coletas dos dados 26/04 
+                       Biblioteca FAI
+			Aulas de metodologia, complementos APS
+			Livros / Revistas

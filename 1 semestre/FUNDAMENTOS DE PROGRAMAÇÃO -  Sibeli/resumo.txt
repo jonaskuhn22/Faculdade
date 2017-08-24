@@ -1,0 +1,73 @@
+Algoritmo: sequencias finitas e ordenadas de instruções devendo ser seguidas para resolver
+o problema.
+
+Programa: um algoritmo escrito em Linguagem Natural, depois de convertido em uma 
+linguagem aceita pelo computador.
+
+Programação: é criar uma série de instruções que deverá ser executado.
+
+Codigo fonte: é uma determinada linguagem escrita.
+
+Linguagem de programação: é o elo entre a linguagem que os seres humanos entendem e as 
+instruções que uma maquina deve entender.
+
+Baixo nível: linguagem do computador (binario ou Assembly).
+
+Alto nível: linguagem proxima a nossa lingua, ou seja mais compreenssível.
+
+Variável: é um objeto ou entidade situado na memória que representa um valor ou expressão.
+
+OPERADORES LÓGICOS
+
+E (AND) && : resulta em verdadeiro se igual a vdd ou falso nos outros casos.
+
+OU (OR) || : resulta em vdd se diferentes ou igual a vdd ou falso se for os dois falsos.
+
+Compilador: tradutor de linguagem de alto nível para o baixo nivel, ou seja para que a
+maquina entenda o que foi escrito.
+
+Interpretador: lê a linguagem escrita, vê se não tem erros, converte para alinguagem do computador
+e depois ordena ele executa-lo.
+
+Compilador: gera um executável da linguagem escrita.
+
+#include <stdio.h>
+diz ao compilador para incluir informações sobre a biblioteca padrão de
+entrada/saída
+
+main () 
+função principal (primeira função a ser executada). É por ela que se
+inicia a execução do programa
+
+ {
+início da função main
+
+printf(“Meu primeiro programa em C!");
+função de biblioteca que imprime uma saída, definida como argumento desta
+função
+
+getchar(); 
+função que aguarda a captura do teclado usado sempre no
+final do programa para que o mesmo possa ser visualizado.
+
+ } 
+término da função main
+
+Comentários
+ /*  */
+//
+
+%f – ponto flutuante
+%d – decimal (inteiros)
+%s – cadeia de caracteres
+%c – caracter simples
+
+char = caracter;
+int = números inteiros;
+float = ponto flutuante em precisão simples;
+double = ponto flutuante em dupla precisão;
+
+E (and) &&
+Ou (or) ||
+Negação (not) !
+

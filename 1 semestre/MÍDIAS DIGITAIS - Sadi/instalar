@@ -1,0 +1,6 @@
+pressione ctrl+alt+t
+sudo add-apt-repository ppa:cinelerra-ppa/ppa  
+ [ENTER]
+sudo apt-get update 
+ [ENTER]
+sudo apt-get install gimp audacity kdenlive inkscape cinelerra-cv [ENTER]

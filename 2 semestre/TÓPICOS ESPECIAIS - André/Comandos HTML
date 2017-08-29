@@ -73,3 +73,23 @@ ancora
  onde sera ancorado
 
  <a name="nome da ancora">
+
+ 							TABELAS
+
+ <table> -> tag para criar tabela
+ <tr> -> linha
+ <td> -> coluna normal
+ <th> -> coluna cabeçalho
+
+ Atributos
+
+width-> largura
+border-> borda
+colspan -> mesclar colunas (th/td)
+rowspan -> mesclar linhas (th/td)
+
+
+							IMAGENS
+<img>
+src -> path/arquivo
+alt -> textos substitutivo (obrigatório)

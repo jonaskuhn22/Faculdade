@@ -1,0 +1,29 @@
+O que é CSS?
+
+Talvez você já tenha ouvido falar em CSS, mas não saiba o que significa exatamente. Nesta lição você saberá o que é e para que serve CSS. CSS é a abreviatura para Cascading Style Sheets. — Folha de Estilos em Cascata. 
+
+O que eu posso fazer com CSS?
+
+CSS é uma linguagem para estilos que define o layout de documentos HTML. Por exemplo, CSS controla fontes, cores, margens, linhas, alturas, larguras, imagens de fundo, posicionamentos e muito mais.
+
+HTML pode ser (in)devidamente usado para definir o layout de websites. Contudo CSS proporciona mais opções e é mais preciso e sofisticado. CSS é suportado por todos os navegadores atuais.
+
+Qual é a diferença entre CSS e HTML?
+
+HTML é usado para estruturar conteúdos. CSS é usado para formatar conteúdos estruturados.
+
+Em tempos passados quando um sujeito chamado Tim Berners Lee inventou a World Wide Web, a linguagem HTML era usada somente para estruturar textos. Um autor podia marcar seus textos definindo "isto é um cabeçalho" ou "isto é um parágrafo" usando tags HTML para isso.
+
+À medida que a Web ganhava popularidade, os designers começavam a sentir a necessidade de encontrar meios de construir layout para os documentos online. Para suprir estas necessidades os fabricantes de navegadores (àquela época a Netscape e a Microsoft) inventaram novas tags HTML tais como, por exemplo a tag "font" que se diferenciava das tags originais do HTML pelo fato de destinar-se à layout — e não à estrutura.
+
+Isto adicionalmente teve o efeito de disvirtuar o emprego de tags inicialmente projetadas para estrutura como por exemplo a tag "table" que passaram a ser empregadas para layout. Muitas destas novas tags para layout eram suportadas somente por um determinado tipo de navegador. A frase "Você precisa do navegador X para visualizar esta página" tornou-se comum nos websites.
+
+O CSS foi inventado para solucionar esta situação, colocando à disposição dos web designers meios sofisticados de projetar layouts suportados por todos os navegadores. E ao mesmo tempo a separação dos estilos de apresentação da marcação dos conteúdos torna a manutenção dos sites bem mais fácil.
+
+Quais são os benefícios do uso de CSS?
+
+CSS é uma revolução no mundo do web design. Os benefícios concretos do uso de CSS incluem:
+•controle do layout de vários documentos a partir de uma simples folha de estilos;
+•maior precisão no controle do layout;
+•aplicação de diferentes layouts para servir diferentes mídias (tela, impressora, etc.);
+•emprego de variadas, sofisticadas e avançadas técnicas de desenvolvimento.
